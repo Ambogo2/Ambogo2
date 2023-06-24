@@ -9,7 +9,6 @@ SE Trainee @alx-Holberton School
 * 🌍  I'm based in Mombasa, Kenya
 * ✉️  You can contact me at [ruthambogo.ra@gmail.com](mailto:ruthambogo.ra@gmail.com)
 * 🧠  I'm learning C and Python
-* 🤝  I'm open to collaborating on any open source projects
 
 ### Skills
 
