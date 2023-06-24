@@ -4,7 +4,7 @@ Hi 👋 My name is Ambogo Musungu
 SE Trainee @alx-Holberton School
 --------------------------------
 
-#Creating infinite possibilities through coding
+#Creating infinite possibilities through code
 
 * 🌍  I'm based in Mombasa, Kenya
 * ✉️  You can contact me at [ruthambogo.ra@gmail.com](mailto:ruthambogo.ra@gmail.com)
