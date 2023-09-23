@@ -1,14 +1,13 @@
-Hi 👋 My name is Ambogo Musungu
+Hi 👋 My name is Ruth Ambogo
 ===============================
 
 SE Trainee @alx-Holberton School
 --------------------------------
-
-#Creating infinite possibilities through code
+🌟 Iam an Enthusiastic Learner in Software Engineering and Data Analysis 📊 | Iam on the journey to Uncover the art of code and data magic. I am currently Proficient in SQL, Power BI, and Python.
 
 * 🌍  I'm based in Mombasa, Kenya
 * ✉️  You can contact me at [ruthambogo.ra@gmail.com](mailto:ruthambogo.ra@gmail.com)
-* 🧠  I'm learning C, Python and HTML
+* 🧠  I'm learning Python and HTML
 
 ### Skills
 
