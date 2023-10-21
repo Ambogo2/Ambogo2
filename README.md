@@ -1,16 +1,16 @@
-Hi 👋 My name is Ruth Ambogo
+Hey there 👋 I am Ruth Ambogo
 ===============================
 ![Alt Text](https://img.freepik.com/free-vector/flat-customer-support-illustration_23-2148899114.jpg?w=740&t=st=1697873647~exp=1697874247~hmac=f23a050db97e7624e6fef34254e9ef4812746e1c50ed69ece5562c783f6ab5fc)
 
 SE Trainee @alx-Holberton School
 --------------------------------
+## About me
 🌟 Iam an Enthusiastic Learner in Software Engineering and Data Analysis 📊 | Iam on the journey to Uncover the art of code and data magic. I am currently Proficient in SQL, Power BI, and Python.
-
-* 🌍  I'm based in Mombasa, Kenya
+* 🌍  I'm based in Kenya
 * ✉️  You can contact me at [ruthambogo.ra@gmail.com](mailto:ruthambogo.ra@gmail.com)
-* 🧠  I'm learning Python and SQL 
+* 🧠  I'm currently learning Python , Data science and Machine learning
 
-### Skills
+### My Skills
 
 
 <p align="left">
