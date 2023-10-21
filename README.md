@@ -6,7 +6,7 @@ SE Trainee @alx-Holberton School
 --------------------------------
 About me
 --------------------------------
-🌟 Iam an Enthusiastic Learner in Software Engineering and Data Analysis 📊 | Iam on the journey to Uncover the art of code and data magic. I am currently Proficient in SQL, Power BI, and Python.
+* 🌟 Iam an Enthusiastic Learner in Software Engineering and Data Analysis 📊 | Iam on the journey to Uncover the art of code and data magic. I am currently Proficient in SQL, Power BI, and Python.
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [ruthambogo.ra@gmail.com](mailto:ruthambogo.ra@gmail.com)
 * 🧠  I'm currently learning Python , Data science and Machine learning
