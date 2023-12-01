@@ -11,11 +11,11 @@
 
 <div align = "center">
   
-  * ✉️  You can contact me at [ruthambogo.ra@gmail.com](mailto:ruthambogo.ra@gmail.com)
+  ✉️  You can contact me at [ruthambogo.ra@gmail.com](mailto:ruthambogo.ra@gmail.com)
   
-  * 🧠  I'm currently learning Python , Data science and Machine learning
+  🧠  I'm currently learning Python , Data science and Machine learning
   
-  * I am currently Proficient in SQL, Power BI, and Python
+  I am currently Proficient in SQL, Power BI, and Python
 
 </div>
 
