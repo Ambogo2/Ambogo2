@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing.svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righeous&size=35&center=true&vCenter=true&width=500&height=700&duration=4000&color=4E78B3&lines=Hi%20There%20👋%20I%20am%20Ruth%20Ambogo" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righeous&size=35&center=true&vCenter=true&width=500&height=700&duration=400&color=4E78B3&lines=Hi%20There%20👋%20I%20am%20Ruth%20Ambogo" />
   </a>
 </h1>
 SE Trainee @alx-Holberton School
