@@ -9,7 +9,7 @@
 <h3 align = "Center"> A Tech Enthusiast from Kenya </h3>
 <br />
 
-<div align = "centre">
+<div align = "center">
   
 * ✉️  You can contact me at [ruthambogo.ra@gmail.com](mailto:ruthambogo.ra@gmail.com)
   
@@ -28,7 +28,7 @@
 
 
 ### Socials
-<div align="center">
+<div align="left">
   <a href="https://www.github.com/Ambogo2" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a> 
