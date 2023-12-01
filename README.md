@@ -39,12 +39,7 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 </p>
 
-<br />
-<div align="center">
-  <h2>My GitHub Stats</h2>
-[![Ambogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ambogo2&show_icons=true&theme=radical)](https://github.com/Ambogo2/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ambogo2&layout=compact)](https://github.com/Ambogo2/github-readme-stats)
-</div>
+<h2 align="center">My GitHub Stats</h2>
 
 [![Ambogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ambogo2&show_icons=true&theme=radical)](https://github.com/Ambogo2/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ambogo2&layout=compact)](https://github.com/Ambogo2/github-readme-stats)
