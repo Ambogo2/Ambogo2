@@ -1,4 +1,4 @@
-<img align="right" src="https:visitor-badge.laobi.icu/badge?page_id=Ambogo2?.Ambogo2" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ambogo2?.Ambogo2" />
 
 Hey there 👋 I am Ruth Ambogo
 ===============================
