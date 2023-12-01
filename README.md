@@ -8,6 +8,7 @@
 <h3 align = "Center"> A Tech Enthusiast from Kenya </h3>
 <br />
 <div align = "centre">
+  
 * ✉️  You can contact me at [ruthambogo.ra@gmail.com](mailto:ruthambogo.ra@gmail.com)
   
 * 🧠  I'm currently learning Python , Data science and Machine learning
