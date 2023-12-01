@@ -39,9 +39,8 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 </p>
 
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Ambogo2"><img src="https://github-readme-stats.vercel.app/api?username=Ambogo2&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=6366f1&icon_color=000000&bg_color=831843&hide_border=true&show_icons=true" alt="Ambogo2's GitHub stats" /></a>
+<br />
+<div align="centre">
+  <h2>My GitHub Stats</h2>
+    <a href="http://www.github.com/Ambogo2"><img src="https://github-readme-stats.vercel.app/api?      username=Ambogo2&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=6366f1&icon_color=000000&bg_color=831843&hide_border=true&show_icons=true" alt="Ambogo2's GitHub stats" /></a>
+</div>
