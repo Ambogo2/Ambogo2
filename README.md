@@ -1,12 +1,14 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ambogo2?.Ambogo2" />
+
 <h1 align="center">
   <a href="https://git.io/typing.svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righeous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=4E78B3&lines=Hi%20There%20👋;%20I%20am%20Ruth%20Ambogo!;" />
-  </a>
-  
+  </a> 
 </h1>
+
 <h3 align = "Center"> A Tech Enthusiast from Kenya </h3>
 <br />
+
 <div align = "centre">
   
 * ✉️  You can contact me at [ruthambogo.ra@gmail.com](mailto:ruthambogo.ra@gmail.com)
