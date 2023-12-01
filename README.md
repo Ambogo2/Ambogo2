@@ -5,15 +5,12 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Righeous&size=35&center=true&vCenter=true&width=500&height=700&duration=4000&color=4E78B3&lines=Hi%20There%20👋;%20I%20am%20Ruth%20Ambogo!;" />
   </a>
 </h1>
-<h3 align = "Center">  Iam an Enthusiastic Learner in Software Engineering and Data Analysis 📊 | Iam on the journey to Uncover the art of code and data magic. I am currently Proficient in SQL, Power BI, and Python.</h3>
+<h3 align = "Center"> A Tech Enthusiast from Kenya </h3>
 <br />
-
-About me
---------------------------------
-* 🌟 Iam an Enthusiastic Learner in Software Engineering and Data Analysis 📊 | Iam on the journey to Uncover the art of code and data magic. I am currently Proficient in SQL, Power BI, and Python.
-* 🌍  I'm based in Kenya
+<div align = "centre">
 * ✉️  You can contact me at [ruthambogo.ra@gmail.com](mailto:ruthambogo.ra@gmail.com)
 * 🧠  I'm currently learning Python , Data science and Machine learning
+* I am currently Proficient in SQL, Power BI, and Python
 
 ### My Skills
 
