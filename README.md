@@ -42,9 +42,8 @@
 <br />
 <div align="center">
   <h2>My GitHub Stats</h2>
-  <a href="http://www.github.com/Ambogo2">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ambogo2&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=6366f1&icon_color=000000&bg_color=831843&hide_border=true&show_icons=true" alt="Ambogo2's GitHub stats" />
-  </a>
+[![Ambogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ambogo2&show_icons=true&theme=radical)](https://github.com/Ambogo2/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ambogo2&layout=compact)](https://github.com/Ambogo2/github-readme-stats)
 </div>
 
 [![Ambogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ambogo2&show_icons=true&theme=radical)](https://github.com/Ambogo2/github-readme-stats)
