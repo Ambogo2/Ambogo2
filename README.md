@@ -35,9 +35,12 @@
   
 <h2 align="center"> Languages-Tools</h2>
 <br/>
-<div align="center">
+</div>
+  <div align="center">
   <a href="https://skillsicons.dev">
-    <img src ="https://skillsicons.dev/icons?i=python,c,gitub,vscode,html,css />
+    <img src="https://skillsicons.dev/icons?i=python,c,gitub,vscode,html,css" />
+  </a>
+</div>
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
