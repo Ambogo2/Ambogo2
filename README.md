@@ -31,7 +31,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
   </a>
 </div>
-<br/ > 
+<br /> 
   
 ### My Skills
 
