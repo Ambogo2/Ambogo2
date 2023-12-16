@@ -1,4 +1,4 @@
-Hi 👋 My name is Ruth Ambogo Musungu
+Hi 👋 My name is Musungu Ruth Ambogo 
 ====================================
 
 Alx Software Engineer Student
