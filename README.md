@@ -1,7 +1,7 @@
 Hi 👋 My name is Ruth Ambogo Musungu
 ====================================
 
-Alx Software Engineer Student
+Alx Software Engineer Student & Data Analyst
 -----------------------------
 
 I've been on a journey into the tech world for the past year, and while it hasn't always been easy, I'm genuinely enjoying the learning process. My passion for technology began with a desire to create innovative solutions and work on exciting projects. This journey has been both challenging and rewarding, and I'm excited about the opportunities ahead as I continue to grow in the tech field.
