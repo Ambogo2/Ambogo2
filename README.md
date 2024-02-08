@@ -1,6 +1,6 @@
 
 ![logo](https://github.com/Ambogo2/Ambogo2/blob/main/png.png)
-Hi 👋 My name is Ruth Ambogo Musungu
+<h1 align="centre"> Hi 👋 My name is Ruth Ambogo Musungu</h1>
 ====================================
 
 Alx Software Engineer Student & Data Analyst
