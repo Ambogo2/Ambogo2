@@ -1,3 +1,5 @@
+
+![logo](https://github.com/Ambogo2/Ambogo2/blob/main/png.png)
 Hi 👋 My name is Ruth Ambogo Musungu
 ====================================
 
