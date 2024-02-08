@@ -9,7 +9,7 @@ Alx Software Engineer Student & Data Analyst
 
 
 
-I've been on a journey into the tech world for the past year, and while it hasn't always been easy, I'm genuinely enjoying the learning process. My passion for technology began with a desire to create innovative solutions and work on exciting projects. This journey has been both challenging and rewarding, and I'm excited about the opportunities ahead as I continue to grow in the tech field.
+<p align = "left"> I've been on a journey into the tech world for the past year, and while it hasn't always been easy, I'm genuinely enjoying the learning process. My passion for technology began with a desire to create innovative solutions and work on exciting projects. This journey has been both challenging and rewarding, and I'm excited about the opportunities ahead as I continue to grow in the tech field.</p>
 
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [ruthambogo@gmail.com](mailto:ruthambogo@gmail.com)
