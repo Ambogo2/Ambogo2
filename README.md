@@ -6,6 +6,10 @@
 Alx Software Engineer Student & Data Analyst
 -----------------------------
 <img style="display: block; margin: 0 auto;" width="350" height="450" src="https://github.com/Ambogo2/Ambogo2/blob/main/Developers%20Gif.gif">
+<p align="center">
+  <img width="350" height="450" src="https://github.com/Ambogo2/Ambogo2/blob/main/Developers%20Gif.gif">
+</p>
+
 
 
 
