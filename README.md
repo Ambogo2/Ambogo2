@@ -5,13 +5,10 @@
 
 Alx Software Engineer Student & Data Analyst
 -----------------------------
-<img style="display: block; margin: 0 auto;" width="350" height="450" src="https://github.com/Ambogo2/Ambogo2/blob/main/Developers%20Gif.gif">
+
 <p align="center">
-  <img width="350" height="450" src="https://github.com/Ambogo2/Ambogo2/blob/main/Developers%20Gif.gif">
+  <img width="350" height="300" src="https://github.com/Ambogo2/Ambogo2/blob/main/Developers%20Gif.gif">
 </p>
-
-
-
 
 
 <p > I've been on a journey into the tech world for the past year, and while it hasn't always been easy, I'm genuinely enjoying the learning process. My passion for technology began with a desire to create innovative solutions and work on exciting projects. This journey has been both challenging and rewarding, and I'm excited about the opportunities ahead as I continue to grow in the tech field.</p>
