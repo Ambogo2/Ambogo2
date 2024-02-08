@@ -5,7 +5,7 @@
 
 Alx Software Engineer Student & Data Analyst
 -----------------------------
-<img align="right" width="400" src="https://assets.pinterest.com/ext/embed.html?id=814870126349049321">
+<img align="right" width="400" src="https://github.com/Ambogo2/Ambogo2/blob/main/great.jpg">
 
 
 
