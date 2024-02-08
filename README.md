@@ -5,7 +5,7 @@
 
 Alx Software Engineer Student & Data Analyst
 -----------------------------
-<img align="right" width="400" src="https://github.com/Ambogo2/Ambogo2/blob/main/great.jpg">
+<img align="right" width="400" height= "445" src="https://github.com/Ambogo2/Ambogo2/blob/main/Developers%20Gif.gif">
 
 
 
