@@ -15,7 +15,8 @@ Alx Software Engineer Student & Data Analyst
 
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [ruthambogo@gmail.com](mailto:ruthambogo@gmail.com)
-* 🧠  I'm learning Python and REST API
+* 🧠  I'm learning Python and React
+
 
 <a href="https://www.x.com/ruth_musungu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ruth_musungu?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
